@@ -31,4 +31,4 @@ Story: Deliver the packages
 ![ss3](https://user-images.githubusercontent.com/126782676/233213123-de7ee887-fe34-497f-84c1-238ff6769f09.jpg)
 ![ss4](https://user-images.githubusercontent.com/126782676/233213128-b6a5b651-545e-40a9-bb15-71918db7ce23.jpg)
 
-for gameplay video :
+for gameplay video : https://www.linkedin.com/feed/update/urn:li:activity:7054590096297066497/
